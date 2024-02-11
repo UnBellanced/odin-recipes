@@ -1,0 +1,18 @@
+
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+h1{
+    color: darkgoldenrod;
+    font-weight: bold;
+}
+
+p{
+    margin-top: -15px;
+}
+
+.closer{
+    margin-bottom: -0.1px;
+}
